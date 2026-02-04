@@ -7,6 +7,10 @@
   background-color: rgb(56, 56, 190);
 }
 
+ul {
+  list-style: none;
+}
+
 input {
   border: none;
   outline: none;
