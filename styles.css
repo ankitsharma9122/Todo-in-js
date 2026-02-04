@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+.input-main {
+  max-width: fit-content;
+  background-color: rgb(56, 56, 190);
+}
+
+input {
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-size: 14px;
+}
+
+span {
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer;
+}
+
+.textDecoration {
+  text-decoration: line-through;
+}
